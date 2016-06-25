@@ -1,0 +1,10 @@
+c:\users\hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\bin\Debug\DataBase Application.exe.config
+c:\users\hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\bin\Debug\DataBase Application.exe
+c:\users\hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\bin\Debug\DataBase Application.pdb
+c:\users\hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\obj\Debug\DataBase Application.csprojResolveAssemblyReference.cache
+c:\users\hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\obj\Debug\DataBase_Application.Properties.Resources.resources
+c:\users\hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\obj\Debug\DataBase Application.csproj.GenerateResource.Cache
+c:\users\hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\obj\Debug\DataBase Application.exe
+c:\users\hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\obj\Debug\DataBase Application.pdb
+C:\Users\Hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\obj\Debug\DataBase_Application.Form2.resources
+C:\Users\Hammad\documents\visual studio 2012\Projects\DataBase Application\DataBase Application\obj\Debug\DataBase_Application.orm1.resources
